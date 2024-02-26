@@ -6,5 +6,5 @@
 есть функция ввода **даты** в любом удобном формате!
 
 ## Ссылки
-Ссылка на бота [здесь](https://t.me/Horoscopes_now_bot).  
+Ссылка на бота [здесь](https://t.me/Horoscopes_now_bot)  
 Видео-пример функциональности бота [здесь](https://github.com/Andrey-SPb1/TelegramBotHoroscopes/assets/128484672/afdf374b-add4-4fc4-8396-7517b7db23fd)
