@@ -1,0 +1,14 @@
+command-answer
+start-Приветствую, выберите свой <b>знак зодиака</b> или введите <b>дату рождения</b>
+chooseNewSign-Выберите <b>знак зодиака</b> или введите <b>дату рождения</b>
+invalidMessage-Сообщение не распознано
+invalidDate-Дата не распознана
+forecastTitleForYesterday-Вчерашний прогноз
+forecastTitleForToday-Прогноз на сегодня
+forecastTitleForTomorrow-Прогноз на завтра
+forecastTitleForWeek-Прогноз на неделю
+forecastTitleForMonth-Прогноз на месяц
+forecastTitleForYear-Прогноз на год
+afterSelectingZodiacSign-Выберите на какой <b>период</b> требуется прогноз
+buttonChangeSign-Выбрать другой знак зодиака
+error-Попробуйте еще раз
